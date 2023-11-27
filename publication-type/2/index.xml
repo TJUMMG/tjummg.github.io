@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | TJUMMG</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu69c956c0dbe79f74cb3f53cc3c13f49a_591554_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Multi-stage Spatio-Temporal Fusion Network for Fast and Accurate Video Bit-depth Enhancement</title>
+      <link>/publication/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge-Enhanced Causal Reinforcement Learning Model for Interactive Recommendation</title>
+      <link>/publication/knowledge-enhanced-causal-reinforcement-learning-model-for-interactive-recommendation/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/knowledge-enhanced-causal-reinforcement-learning-model-for-interactive-recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MALN: Multimodal Adversarial Learning Network for Conversational Emotion Recognition</title>
+      <link>/publication/maln-multimodal-adversarial-learning-network-for-conversational-emotion-recognition/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/maln-multimodal-adversarial-learning-network-for-conversational-emotion-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRFT: Multiscale Recurrent Fusion Transformer Based Prior Knowledge for Bit-Depth Enhancement</title>
+      <link>/publication/mrft-multiscale-recurrent-fusion-transformer-based-prior-knowledge-for-bit-depth-enhancement/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/mrft-multiscale-recurrent-fusion-transformer-based-prior-knowledge-for-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence as A Whole: A Unified Framework for Video Action Localization with Long-Range Text Query</title>
+      <link>/publication/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory Guided Robust Visual Object Tracking With Selective Remedy Recommendation</title>
+      <link>/publication/trajectory-guided-robust-visual-object-tracking-with-selective-remedy/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/trajectory-guided-robust-visual-object-tracking-with-selective-remedy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TANet: Target Attention Network for Video Bit-Depth Enhancement</title>
+      <link>/publication/tanet-target-attention-network-for-video-bit-depth-enhancement/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/tanet-target-attention-network-for-video-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual-Guided Multiscale Fusion Network for Bit-Depth Enhancement</title>
+      <link>/publication/residual-guided-multiscale-fusion-network-for-bit-depth-enhancement/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/residual-guided-multiscale-fusion-network-for-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tripartite Graph Regularized Latent Low-Rank Representation for Fashion Compatibility Prediction</title>
+      <link>/publication/tripartite-graph-regularized-latent-low-rank-representation-for-fashion-compatibility-prediction/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/tripartite-graph-regularized-latent-low-rank-representation-for-fashion-compatibility-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Low-Rank Sparse Representations With Robust Relationship Inference for Image Memorability Prediction</title>
+      <link>/publication/learning-low-rank-sparse-representations-with-robust-relationship-inference-for-image-memorability-prediction/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/learning-low-rank-sparse-representations-with-robust-relationship-inference-for-image-memorability-prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
