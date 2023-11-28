@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Content Analysis | TJUMMG</title>
+    <link>/tag/video-content-analysis/</link>
+      <atom:link href="/tag/video-content-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Video Content Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu69c956c0dbe79f74cb3f53cc3c13f49a_591554_512x512_fill_lanczos_center_3.png</url>
+      <title>Video Content Analysis</title>
+      <link>/tag/video-content-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Sequence as a Whole: A Unified Framework for Video Action Localization With Long-Range Text Query</title>
+      <link>/project/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/project/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		Comprehensive understanding of video content requires both spatial and temporal localization. However, there lacks a unified video action localization framework, which hinders the coordinated development of this field. Existing 3D CNN methods take fixed and limited input length at the cost of ignoring temporally long-range cross-modal interaction. On the other hand, despite having large temporal context, existing sequential methods often avoid dense cross-modal interactions for complexity reasons. To address this issue, in this paper, we propose a unified framework which handles the whole video in sequential manner with long-range and dense visual-linguistic interaction in an end-to-end manner. Specifically, a lightweight relevance filtering based transformer (Ref-Transformer) is designed, which is composed of relevance filtering based attention and temporally expanded MLP. The text-relevant spatial regions and temporal clips in video can be efficiently highlighted through the relevance filtering and then propagated among the whole video sequence with the temporally expanded MLP. Extensive experiments on three sub-tasks of referring video action localization, i.e., referring video segmentation, temporal sentence grounding, and spatiotemporal video grounding, show that the proposed framework achieves the state-of-the-art performance in all referring video action localization tasks. The code has been available at.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

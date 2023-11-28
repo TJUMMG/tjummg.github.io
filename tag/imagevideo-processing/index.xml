@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imagevideo Processing | TJUMMG</title>
+    <link>/tag/imagevideo-processing/</link>
+      <atom:link href="/tag/imagevideo-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Imagevideo Processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu69c956c0dbe79f74cb3f53cc3c13f49a_591554_512x512_fill_lanczos_center_3.png</url>
+      <title>Imagevideo Processing</title>
+      <link>/tag/imagevideo-processing/</link>
+    </image>
+    
+    <item>
+      <title>Multi-stage Spatio-Temporal Fusion Network for Fast and Accurate Video Bit-depth Enhancement</title>
+      <link>/project/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/project/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		For video bit-depth enhancement (VBDE) tasks, inter-frame information is critical for removing false contours and recovering the details in low bit-depth (LBD) videos. However, due to different structural distortions and complex motions in the neighboring frames, it is difficult to effectively utilized inter-frame information. Most algorithms rely on alignment operations to provide information of neighboring frames, suffering from slow inference speed due to the complex alignment module design. Meanwhile, most existing methods sequentially perform the intra-frame feature extractions and inter-frame information fusions, but fail to efficiently fuse spatio-temporal information. Therefore, in this paper, we propose a two-stage progressive group (TSPG) network to find complementary information related to the target frame without adopting an alignment operation. To simultaneously achieve intra-frame feature extractions and inter-frame feature fusions, we propose a parallel spatio-temporal fusion (PSTF) module with a dual-branch spatial-temporal residual (DSTR) block to focus on more useful temporal information while ensuring a faster inference speeds. Extensive experiments on public datasets demonstrate that our proposed multi-stage spatio-temporal fusion network (named MSTFN) can quickly and effectively eliminate false contours and recover high quality target frames. Furthermore, our method outperforms the state-of-the-art methods in terms of both PSNR and SSIM, and can reach faster inference speeds.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
