@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu69c956c0dbe79f74cb3f53cc3c13f49a_591554_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,23 +13,32 @@
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
+      <title>Multi-stage Spatio-Temporal Fusion Network for Fast and Accurate Video Bit-depth Enhancement</title>
+      <link>/project/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/project/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		For video bit-depth enhancement (VBDE) tasks, inter-frame information is critical for removing false contours and recovering the details in low bit-depth (LBD) videos. However, due to different structural distortions and complex motions in the neighboring frames, it is difficult to effectively utilized inter-frame information. Most algorithms rely on alignment operations to provide information of neighboring frames, suffering from slow inference speed due to the complex alignment module design. Meanwhile, most existing methods sequentially perform the intra-frame feature extractions and inter-frame information fusions, but fail to efficiently fuse spatio-temporal information. Therefore, in this paper, we propose a two-stage progressive group (TSPG) network to find complementary information related to the target frame without adopting an alignment operation. To simultaneously achieve intra-frame feature extractions and inter-frame feature fusions, we propose a parallel spatio-temporal fusion (PSTF) module with a dual-branch spatial-temporal residual (DSTR) block to focus on more useful temporal information while ensuring a faster inference speeds. Extensive experiments on public datasets demonstrate that our proposed multi-stage spatio-temporal fusion network (named MSTFN) can quickly and effectively eliminate false contours and recover high quality target frames. Furthermore, our method outperforms the state-of-the-art methods in terms of both PSNR and SSIM, and can reach faster inference speeds.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Knowledge-Enhanced Causal Reinforcement Learning Model for Interactive Recommendation</title>
+      <link>/project/knowledge-enhanced-causal-reinforcement-learning-model-for-interactive-recommendation/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>/project/knowledge-enhanced-causal-reinforcement-learning-model-for-interactive-recommendation/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		Owing to its inherently dynamic nature and economical training cost, offline reinforcement learning (RL) is typically employed to implement an interactive recommender system (IRS). A crucial challenge in offline RL-based IRSs is the data sparsity issue, i.e. , it is hard to mine user preferences well from the limited number of user-item interactions. In this paper, we propose a knowledge-enhanced causal reinforcement learning model (KCRL) to mitigate data sparsity in IRSs. We make technical extensions to the offline RL framework in terms of the reward function and state representation. Specifically, we first propose a group preference-injected causal user model (GCUM) to learn user satisfaction ( i.e. , reward) estimation. We introduce beneficial group preference information, namely, the group effect, via causal inference to compensate for incomplete user interests extracted from sparse data. Then, we learn the RL recommendation policy with the reward given by the GCUM. We propose a knowledge-enhanced state encoder (KSE) to generate knowledge-enriched user state representations at each time step, which is assisted by a self-constructed user-item knowledge graph. Extensive experimental results on real-world datasets demonstrate that our model significantly outperforms the baselines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequence as a Whole: A Unified Framework for Video Action Localization With Long-Range Text Query</title>
+      <link>/project/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/project/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		Comprehensive understanding of video content requires both spatial and temporal localization. However, there lacks a unified video action localization framework, which hinders the coordinated development of this field. Existing 3D CNN methods take fixed and limited input length at the cost of ignoring temporally long-range cross-modal interaction. On the other hand, despite having large temporal context, existing sequential methods often avoid dense cross-modal interactions for complexity reasons. To address this issue, in this paper, we propose a unified framework which handles the whole video in sequential manner with long-range and dense visual-linguistic interaction in an end-to-end manner. Specifically, a lightweight relevance filtering based transformer (Ref-Transformer) is designed, which is composed of relevance filtering based attention and temporally expanded MLP. The text-relevant spatial regions and temporal clips in video can be efficiently highlighted through the relevance filtering and then propagated among the whole video sequence with the temporally expanded MLP. Extensive experiments on three sub-tasks of referring video action localization, i.e., referring video segmentation, temporal sentence grounding, and spatiotemporal video grounding, show that the proposed framework achieves the state-of-the-art performance in all referring video action localization tasks. The code has been available at.&lt;/p&gt;
 </description>
     </item>
     

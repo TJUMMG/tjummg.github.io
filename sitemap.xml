@@ -32,10 +32,19 @@
     <loc>/authors/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/imagevideo-processing/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/jing-liu/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
@@ -59,7 +68,13 @@
     <loc>/author/jiawei-chen-jiancan-wu-guoqing-jin-jing-lu-an-an-liu/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project/knowledge-enhanced-causal-reinforcement-learning-model-for-interactive-recommendation/</loc>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/knowledge-enhanced-causal-reinforcement-learning-model-for-interactive-recommendation/</loc>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/recommendation-systems/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/weizhi-nie-xin-wen/</loc>
@@ -92,10 +107,16 @@
     <loc>/tag/referring-video-segmentation/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/shuang-ma-xiaokang-yang/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/video-content-analysis/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/yuting-su-weikang-wang/</loc>
@@ -154,21 +175,6 @@
   </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
