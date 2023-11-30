@@ -229,7 +229,7 @@
     </item>
     
     <item>
-      <title>Trajectory Guided Robust Visual Object Tracking With Selective Remedy Recommendation</title>
+      <title>Trajectory Guided Robust Visual Object Tracking With Selective Remedy</title>
       <link>/publication/trajectory-guided-robust-visual-object-tracking-with-selective-remedy/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/publication/trajectory-guided-robust-visual-object-tracking-with-selective-remedy/</guid>
@@ -266,6 +266,16 @@
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/publication/learning-low-rank-sparse-representations-with-robust-relationship-inference-for-image-memorability-prediction/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>BE-CALF: Bit-Depth Enhancement by Concatenating All Level Features of DNN</title>
+      <link>/project/be-calf-bit-depth-enhancement-by-concatenating-all-level-features-of-dnn/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/project/be-calf-bit-depth-enhancement-by-concatenating-all-level-features-of-dnn/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		There is a growing demand for monitors to provide high-quality visualization with more bits representing each rendered pixel. However, since most existing images and videos are of low bit-depth (LBD), transforming LBD images to visually pleasant high bit-depth (HBD) versions is of significant value. Most existing bit-depth enhancement methods generate unsatisfactory HBD images with annoying false contour artifacts or blurry details, and some algorithms are also time-consuming. To overcome these drawbacks, we propose a bit-depth enhancement framework via concatenating all level features of deep neural networks (DNNs). A novel deep learning network is proposed based on the deep convolutional variational auto-encoders (VAEs), and skip connections that concatenate every two layers are applied to pass low-level and high-level features to consequent layers, easing the gradient vanishing problem. Meanwhile, the proposed network is optimized to generate the residual between original images and its quantized ones, which performs better than recovering HBD images directly. The experimental results show that the proposed algorithm can eliminate false contour artifacts of the recovered HBD images with low time consumption, and can achieve dramatic restoration performance gains compared with state-of-the-art methods both subjectively and objectively.&lt;/p&gt;
+</description>
     </item>
     
     <item>
