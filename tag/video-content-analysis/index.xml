@@ -5,12 +5,22 @@
     <link>/tag/video-content-analysis/</link>
       <atom:link href="/tag/video-content-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Video Content Analysis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
       <title>Video Content Analysis</title>
       <link>/tag/video-content-analysis/</link>
     </image>
+    
+    <item>
+      <title>Efficient Spatio-Temporal Video Grounding with Semantic-Guided Feature Decomposition</title>
+      <link>/project/efficient-spatio-temporal-video-grounding-with/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/project/efficient-spatio-temporal-video-grounding-with/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		Spatio-temporal video grounding (STVG) aims to localize the spatiotemporal object tube in a video according to a given text query. Current approaches address the STVG task with end-to-end frameworks while suffering from heavy computational complexity and insufficient spatio-temporal interactions. To overcome these limitations, we propose a novel Semantic-Guided Feature Decomposition based Network (SGFDN). A semantic-guided mapping operation is proposed to decompose the 3D spatio-temporal feature into 2D motions and 1D object embedding without losing much object-related semantic information. Thus, the computational complexity in computationally expensive operations such as attention mechanisms can be effectively reduced by replacing the input spatio-temporal feature with the decomposed features. Furthermore, based on this decomposition strategy, a pyramid relevance filtering based attention is proposed to capture the crossmodal interactions at multiple spatio-temporal scales. In addition, a decomposition-based grounding head is proposed to locate the queried objects with less computational complexity. Extensive experiments on two widely-used STVG datasets (VidSTG and HCSTVG) demonstrate that our method enjoys state-of-the-art performance as well as less computational complexity.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sequence as a Whole: A Unified Framework for Video Action Localization With Long-Range Text Query</title>
