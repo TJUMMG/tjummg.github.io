@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuting Su | TJUMMG</title>
+    <link>/author/yuting-su/</link>
+      <atom:link href="/author/yuting-su/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuting Su</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu69c956c0dbe79f74cb3f53cc3c13f49a_591554_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuting Su</title>
+      <link>/author/yuting-su/</link>
+    </image>
+    
+    <item>
+      <title>MRFT: Multiscale Recurrent Fusion Transformer Based Prior Knowledge for Bit-Depth Enhancement</title>
+      <link>/publication/mrft-multiscale-recurrent-fusion-transformer-based-prior-knowledge-for-bit-depth-enhancement/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/mrft-multiscale-recurrent-fusion-transformer-based-prior-knowledge-for-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tripartite Graph Regularized Latent Low-Rank Representation for Fashion Compatibility Prediction</title>
+      <link>/publication/tripartite-graph-regularized-latent-low-rank-representation-for-fashion-compatibility-prediction/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/tripartite-graph-regularized-latent-low-rank-representation-for-fashion-compatibility-prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
