@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuang Ma, Xiaokang Yang | TJUMMG</title>
+    <link>/author/shuang-ma-xiaokang-yang/</link>
+      <atom:link href="/author/shuang-ma-xiaokang-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuang Ma, Xiaokang Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu69c956c0dbe79f74cb3f53cc3c13f49a_591554_512x512_fill_lanczos_center_3.png</url>
+      <title>Shuang Ma, Xiaokang Yang</title>
+      <link>/author/shuang-ma-xiaokang-yang/</link>
+    </image>
+    
+    <item>
+      <title>Sequence as A Whole: A Unified Framework for Video Action Localization with Long-Range Text Query</title>
+      <link>/publication/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
