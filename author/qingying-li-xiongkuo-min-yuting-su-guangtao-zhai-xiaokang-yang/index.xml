@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingying Li, Xiongkuo Min, Yuting Su, Guangtao Zhai, Xiaokang Yang | TJUMMG</title>
+    <link>/author/qingying-li-xiongkuo-min-yuting-su-guangtao-zhai-xiaokang-yang/</link>
+      <atom:link href="/author/qingying-li-xiongkuo-min-yuting-su-guangtao-zhai-xiaokang-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qingying Li, Xiongkuo Min, Yuting Su, Guangtao Zhai, Xiaokang Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
+      <title>Qingying Li, Xiongkuo Min, Yuting Su, Guangtao Zhai, Xiaokang Yang</title>
+      <link>/author/qingying-li-xiongkuo-min-yuting-su-guangtao-zhai-xiaokang-yang/</link>
+    </image>
+    
+    <item>
+      <title>Pixel-Learnable 3DLUT With Saturation-Aware Compensation for Image Enhancement</title>
+      <link>/publication/pixel-learnable-3dlut-with-saturation-aware-compensation-for-image-enhancement/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/pixel-learnable-3dlut-with-saturation-aware-compensation-for-image-enhancement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
