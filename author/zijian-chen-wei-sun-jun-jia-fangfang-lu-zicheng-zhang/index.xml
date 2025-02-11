@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zijian Chen, Wei Sun, Jun Jia, Fangfang Lu, Zicheng Zhang | TJUMMG</title>
+    <link>/author/zijian-chen-wei-sun-jun-jia-fangfang-lu-zicheng-zhang/</link>
+      <atom:link href="/author/zijian-chen-wei-sun-jun-jia-fangfang-lu-zicheng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zijian Chen, Wei Sun, Jun Jia, Fangfang Lu, Zicheng Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
+      <title>Zijian Chen, Wei Sun, Jun Jia, Fangfang Lu, Zicheng Zhang</title>
+      <link>/author/zijian-chen-wei-sun-jun-jia-fangfang-lu-zicheng-zhang/</link>
+    </image>
+    
+    <item>
+      <title>BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment</title>
+      <link>/publication/band-2k-banding-artifact-noticeable-database-for-banding-detection-and-quality-assessment/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/band-2k-banding-artifact-noticeable-database-for-banding-detection-and-quality-assessment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
