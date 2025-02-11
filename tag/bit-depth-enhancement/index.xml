@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bit-depth enhancement | TJUMMG</title>
+    <link>/tag/bit-depth-enhancement/</link>
+      <atom:link href="/tag/bit-depth-enhancement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bit-depth enhancement</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
+      <title>Bit-depth enhancement</title>
+      <link>/tag/bit-depth-enhancement/</link>
+    </image>
+    
+    <item>
+      <title>MRFT: Multiscale Recurrent Fusion Transformer Based Prior Knowledge for Bit-Depth Enhancement</title>
+      <link>/publication/mrft-multiscale-recurrent-fusion-transformer-based-prior-knowledge-for-bit-depth-enhancement/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/mrft-multiscale-recurrent-fusion-transformer-based-prior-knowledge-for-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual-Guided Multiscale Fusion Network for Bit-Depth Enhancement</title>
+      <link>/publication/residual-guided-multiscale-fusion-network-for-bit-depth-enhancement/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/residual-guided-multiscale-fusion-network-for-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
