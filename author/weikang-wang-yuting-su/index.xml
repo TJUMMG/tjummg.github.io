@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weikang Wang, Yuting Su | TJUMMG</title>
+    <link>/author/weikang-wang-yuting-su/</link>
+      <atom:link href="/author/weikang-wang-yuting-su/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weikang Wang, Yuting Su</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
+      <title>Weikang Wang, Yuting Su</title>
+      <link>/author/weikang-wang-yuting-su/</link>
+    </image>
+    
+    <item>
+      <title>Weakly Supervised Referring Video Object Segmentation with Object Centric Pseudo Guided Learning</title>
+      <link>/publication/weakly-supervised-referring-video-object-segmentation-with-object-centric-pseudo-guided-learning/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/weakly-supervised-referring-video-object-segmentation-with-object-centric-pseudo-guided-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
