@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | TJUMMG</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Spatio-Temporal Video Grounding with Semantic-Guided Feature Decomposition</title>
+      <link>/project/efficient-spatio-temporal-video-grounding-with/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/project/efficient-spatio-temporal-video-grounding-with/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		Spatio-temporal video grounding (STVG) aims to localize the spatiotemporal object tube in a video according to a given text query. Current approaches address the STVG task with end-to-end frameworks while suffering from heavy computational complexity and insufficient spatio-temporal interactions. To overcome these limitations, we propose a novel Semantic-Guided Feature Decomposition based Network (SGFDN). A semantic-guided mapping operation is proposed to decompose the 3D spatio-temporal feature into 2D motions and 1D object embedding without losing much object-related semantic information. Thus, the computational complexity in computationally expensive operations such as attention mechanisms can be effectively reduced by replacing the input spatio-temporal feature with the decomposed features. Furthermore, based on this decomposition strategy, a pyramid relevance filtering based attention is proposed to capture the crossmodal interactions at multiple spatio-temporal scales. In addition, a decomposition-based grounding head is proposed to locate the queried objects with less computational complexity. Extensive experiments on two widely-used STVG datasets (VidSTG and HCSTVG) demonstrate that our method enjoys state-of-the-art performance as well as less computational complexity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-stage Spatio-Temporal Fusion Network for Fast and Accurate Video Bit-depth Enhancement</title>
+      <link>/project/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/project/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		For video bit-depth enhancement (VBDE) tasks, inter-frame information is critical for removing false contours and recovering the details in low bit-depth (LBD) videos. However, due to different structural distortions and complex motions in the neighboring frames, it is difficult to effectively utilized inter-frame information. Most algorithms rely on alignment operations to provide information of neighboring frames, suffering from slow inference speed due to the complex alignment module design. Meanwhile, most existing methods sequentially perform the intra-frame feature extractions and inter-frame information fusions, but fail to efficiently fuse spatio-temporal information. Therefore, in this paper, we propose a two-stage progressive group (TSPG) network to find complementary information related to the target frame without adopting an alignment operation. To simultaneously achieve intra-frame feature extractions and inter-frame feature fusions, we propose a parallel spatio-temporal fusion (PSTF) module with a dual-branch spatial-temporal residual (DSTR) block to focus on more useful temporal information while ensuring a faster inference speeds. Extensive experiments on public datasets demonstrate that our proposed multi-stage spatio-temporal fusion network (named MSTFN) can quickly and effectively eliminate false contours and recover high quality target frames. Furthermore, our method outperforms the state-of-the-art methods in terms of both PSNR and SSIM, and can reach faster inference speeds.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge-Enhanced Causal Reinforcement Learning Model for Interactive Recommendation</title>
+      <link>/project/knowledge-enhanced-causal-reinforcement-learning-model-for-interactive-recommendation/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>/project/knowledge-enhanced-causal-reinforcement-learning-model-for-interactive-recommendation/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		Owing to its inherently dynamic nature and economical training cost, offline reinforcement learning (RL) is typically employed to implement an interactive recommender system (IRS). A crucial challenge in offline RL-based IRSs is the data sparsity issue, i.e. , it is hard to mine user preferences well from the limited number of user-item interactions. In this paper, we propose a knowledge-enhanced causal reinforcement learning model (KCRL) to mitigate data sparsity in IRSs. We make technical extensions to the offline RL framework in terms of the reward function and state representation. Specifically, we first propose a group preference-injected causal user model (GCUM) to learn user satisfaction ( i.e. , reward) estimation. We introduce beneficial group preference information, namely, the group effect, via causal inference to compensate for incomplete user interests extracted from sparse data. Then, we learn the RL recommendation policy with the reward given by the GCUM. We propose a knowledge-enhanced state encoder (KSE) to generate knowledge-enriched user state representations at each time step, which is assisted by a self-constructed user-item knowledge graph. Extensive experimental results on real-world datasets demonstrate that our model significantly outperforms the baselines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequence as a Whole: A Unified Framework for Video Action Localization With Long-Range Text Query</title>
+      <link>/project/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/project/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		Comprehensive understanding of video content requires both spatial and temporal localization. However, there lacks a unified video action localization framework, which hinders the coordinated development of this field. Existing 3D CNN methods take fixed and limited input length at the cost of ignoring temporally long-range cross-modal interaction. On the other hand, despite having large temporal context, existing sequential methods often avoid dense cross-modal interactions for complexity reasons. To address this issue, in this paper, we propose a unified framework which handles the whole video in sequential manner with long-range and dense visual-linguistic interaction in an end-to-end manner. Specifically, a lightweight relevance filtering based transformer (Ref-Transformer) is designed, which is composed of relevance filtering based attention and temporally expanded MLP. The text-relevant spatial regions and temporal clips in video can be efficiently highlighted through the relevance filtering and then propagated among the whole video sequence with the temporally expanded MLP. Extensive experiments on three sub-tasks of referring video action localization, i.e., referring video segmentation, temporal sentence grounding, and spatiotemporal video grounding, show that the proposed framework achieves the state-of-the-art performance in all referring video action localization tasks. The code has been available at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BE-CALF: Bit-Depth Enhancement by Concatenating All Level Features of DNN</title>
+      <link>/project/be-calf-bit-depth-enhancement-by-concatenating-all-level-features-of-dnn/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/project/be-calf-bit-depth-enhancement-by-concatenating-all-level-features-of-dnn/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		There is a growing demand for monitors to provide high-quality visualization with more bits representing each rendered pixel. However, since most existing images and videos are of low bit-depth (LBD), transforming LBD images to visually pleasant high bit-depth (HBD) versions is of significant value. Most existing bit-depth enhancement methods generate unsatisfactory HBD images with annoying false contour artifacts or blurry details, and some algorithms are also time-consuming. To overcome these drawbacks, we propose a bit-depth enhancement framework via concatenating all level features of deep neural networks (DNNs). A novel deep learning network is proposed based on the deep convolutional variational auto-encoders (VAEs), and skip connections that concatenate every two layers are applied to pass low-level and high-level features to consequent layers, easing the gradient vanishing problem. Meanwhile, the proposed network is optimized to generate the residual between original images and its quantized ones, which performs better than recovering HBD images directly. The experimental results show that the proposed algorithm can eliminate false contour artifacts of the recovered HBD images with low time consumption, and can achieve dramatic restoration performance gains compared with state-of-the-art methods both subjectively and objectively.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

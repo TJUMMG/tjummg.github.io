@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | TJUMMG</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Graph Disentangled Contrastive Learning with Personalized Transfer for Cross-Domain Recommendation</title>
+      <link>/publication/graph-disentangled-contrastive-learning-with-personalized-transfer-for-cross-domain-recommendation/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/graph-disentangled-contrastive-learning-with-personalized-transfer-for-cross-domain-recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Spatio-Temporal Video Grounding with Semantic-Guided Feature Decomposition</title>
+      <link>/publication/efficient-spatio-temporal-video-grounding-with-semantic-guided-feature-decomposition/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/efficient-spatio-temporal-video-grounding-with-semantic-guided-feature-decomposition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
