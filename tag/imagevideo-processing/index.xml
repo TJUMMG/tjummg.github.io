@@ -5,12 +5,23 @@
     <link>/tag/imagevideo-processing/</link>
       <atom:link href="/tag/imagevideo-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Imagevideo Processing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
       <title>Imagevideo Processing</title>
       <link>/tag/imagevideo-processing/</link>
     </image>
+    
+    <item>
+      <title>What and Where: Semantic Grasping and Contextual Scanning for Moment Retrieval and Highlight Detection</title>
+      <link>/project/what-and-where-semantic-grasping-and-contextual-scanning-for-moment-retrieval-and-highlight-detection/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/project/what-and-where-semantic-grasping-and-contextual-scanning-for-moment-retrieval-and-highlight-detection/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		The current surge in video content highlights the tasks of moment retrieval (MR) and highlight detection (HD), which involve localizing video segments of events and predicting clip-wise saliency scores based on text queries. The recent methods, while effective, may overlook two aspects: 1) Multimodal features often show weak alignment from frozen encoders, hindering thorough semantic exploration of video clips through fine-grained cross-modal interaction. 2) Due to the absence of significant distinction between adjacent video clips, it is challenging for clip-level context modeling to accurately locate query-relevant content. To mitigate these gaps and inspired by the human routine in understanding visual events, we propose a progressive framework dubbed “what and where” to initially grasp the aligned semantics of each video clip, and then proceed to scan moment-level contextual features temporally to identify events matching the query. In the ‘what’ stage, to enable explicit alignment of modal features and achieve a thorough semantic understanding, we firstly devise the Initial Semantic Projection (ISP) loss to bring closer different modal features with similar semantics. Additionally, we develop a Clip Semantic Mining module to deeply mine the relevance of these identified semantics to the specific query (at both word- and sentence-level). In the ‘where’ stage, to enhance feature distinctiveness, we design a Multi-Context Perception module that models moment-level context. It includes an Event Context (EC) branch and a Chronological Context (CC) branch, focusing on possible query-relevant event moments and temporal moments of various lengths. Finally, extensive experiments validate the state-of-the-art performance of our W2W model on three benchmark datasets without additional pre-training. Codes are available at 
+&lt;a href=&#34;https://github.com/TJUMMG/W2W&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/TJUMMG/W2W&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Multi-stage Spatio-Temporal Fusion Network for Fast and Accurate Video Bit-depth Enhancement</title>
@@ -19,16 +30,6 @@
       <guid>/project/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;​		For video bit-depth enhancement (VBDE) tasks, inter-frame information is critical for removing false contours and recovering the details in low bit-depth (LBD) videos. However, due to different structural distortions and complex motions in the neighboring frames, it is difficult to effectively utilized inter-frame information. Most algorithms rely on alignment operations to provide information of neighboring frames, suffering from slow inference speed due to the complex alignment module design. Meanwhile, most existing methods sequentially perform the intra-frame feature extractions and inter-frame information fusions, but fail to efficiently fuse spatio-temporal information. Therefore, in this paper, we propose a two-stage progressive group (TSPG) network to find complementary information related to the target frame without adopting an alignment operation. To simultaneously achieve intra-frame feature extractions and inter-frame feature fusions, we propose a parallel spatio-temporal fusion (PSTF) module with a dual-branch spatial-temporal residual (DSTR) block to focus on more useful temporal information while ensuring a faster inference speeds. Extensive experiments on public datasets demonstrate that our proposed multi-stage spatio-temporal fusion network (named MSTFN) can quickly and effectively eliminate false contours and recover high quality target frames. Furthermore, our method outperforms the state-of-the-art methods in terms of both PSNR and SSIM, and can reach faster inference speeds.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BE-CALF: Bit-Depth Enhancement by Concatenating All Level Features of DNN</title>
-      <link>/project/be-calf-bit-depth-enhancement-by-concatenating-all-level-features-of-dnn/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <guid>/project/be-calf-bit-depth-enhancement-by-concatenating-all-level-features-of-dnn/</guid>
-      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;​		There is a growing demand for monitors to provide high-quality visualization with more bits representing each rendered pixel. However, since most existing images and videos are of low bit-depth (LBD), transforming LBD images to visually pleasant high bit-depth (HBD) versions is of significant value. Most existing bit-depth enhancement methods generate unsatisfactory HBD images with annoying false contour artifacts or blurry details, and some algorithms are also time-consuming. To overcome these drawbacks, we propose a bit-depth enhancement framework via concatenating all level features of deep neural networks (DNNs). A novel deep learning network is proposed based on the deep convolutional variational auto-encoders (VAEs), and skip connections that concatenate every two layers are applied to pass low-level and high-level features to consequent layers, easing the gradient vanishing problem. Meanwhile, the proposed network is optimized to generate the residual between original images and its quantized ones, which performs better than recovering HBD images directly. The experimental results show that the proposed algorithm can eliminate false contour artifacts of the recovered HBD images with low time consumption, and can achieve dramatic restoration performance gains compared with state-of-the-art methods both subjectively and objectively.&lt;/p&gt;
 </description>
     </item>
     

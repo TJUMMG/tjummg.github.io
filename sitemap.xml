@@ -27,16 +27,40 @@
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/2/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/ka-min-knowledge-aware-multimodal-interaction/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ka-min-knowledge-aware-multimodal-interaction/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/video-content-analysis/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/aggregate-and-discriminate-pseudo-clips-guided-boundary-perception-for-video-moment-retrieval/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/aggregate-and-discriminate-pseudo-clips-guided-boundary-perception-for-video-moment-retrieval/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+    <loc>/tag/imagevideo-processing/</loc>
+    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+    <loc>/project/what-and-where-semantic-grasping-and-contextual-scanning-for-moment-retrieval-and-highlight-detection/</loc>
+    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/what-and-where-semantic-grasping-and-contextual-scanning-for-moment-retrieval-and-highlight-detection/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
@@ -77,18 +101,6 @@
     <loc>/project/efficient-spatio-temporal-video-grounding-with/</loc>
     <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
-    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/video-content-analysis/</loc>
-    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/imagevideo-processing/</loc>
-    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/project/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -125,9 +137,6 @@
     <loc>/tag/referring-video-segmentation/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</loc>
-    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -154,9 +163,6 @@
   </url><url>
     <loc>/publication/learning-low-rank-sparse-representations-with-robust-relationship-inference-for-image-memorability-prediction/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/be-calf-bit-depth-enhancement-by-concatenating-all-level-features-of-dnn/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>

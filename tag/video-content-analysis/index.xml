@@ -5,12 +5,32 @@
     <link>/tag/video-content-analysis/</link>
       <atom:link href="/tag/video-content-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Video Content Analysis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
       <title>Video Content Analysis</title>
       <link>/tag/video-content-analysis/</link>
     </image>
+    
+    <item>
+      <title>KA-MIN: Knowledge-Aware Multimodal Interaction Network for Emotion Recognition in Conversation</title>
+      <link>/project/ka-min-knowledge-aware-multimodal-interaction/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/project/ka-min-knowledge-aware-multimodal-interaction/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		Emotion recognition in conversations (ERC) has garnered significant attention for its critical role in human-computer interaction systems. ERC benefits from multimodal data, which offers diverse perspectives on emotional states, and commonsense knowledge (CSK), which enriches the context by incorporating real-world understanding of human behavior. However, existing ERC studies have not fully exploited the potential of multimodal-CSK interactions for complementary information learning from these sources. To address this, we innovatively propose a Knowledge-Aware Multimodal Interaction Network (KA-MIN). KA-MIN is designed to capture complementary emotional information from CSK-multimodal interactions, thereby facilitating the ERC task. To achieve this, KA-MIN begins by combining six relation types of CSK, leveraging their differences between multimodal emotional information. The fused CSK features are then refined to incorporate context and emotional information using multimodal contextual guidance. Subsequently, we construct a novel knowledge-aware multimodal graph structure that allows the CSK information to interact with multimodal information, leading to more comprehensive multimodal and context modeling. During the graph learning process, the CSK-multimodal interactions capture the complementary emotional information between CSK and multimodal features. Finally, we dynamically fuse the multimodal emotional information with the informative CSK and textual guidance to obtain the final utterance representations, which encompass effective emotional information from both multimodal and CSK features. Extensive experiments on two popular multimodal ERC datasets demonstrate the superiority and effectiveness of the proposed KA-MIN framework.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aggregate and Discriminate: Pseudo Clips-Guided Boundary Perception for Video Moment Retrieval</title>
+      <link>/project/aggregate-and-discriminate-pseudo-clips-guided-boundary-perception-for-video-moment-retrieval/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/project/aggregate-and-discriminate-pseudo-clips-guided-boundary-perception-for-video-moment-retrieval/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;​		Video moment retrieval (VMR) aims to localize a video segment in an untrimmed video that is semantically relevant to a language query. The challenge of this task lies in effectively aligning the intricate and information-dense video modality with the succinctly summarized textual modality, and further localizing the starting and ending timestamps of the target moments. Previous works have attempted to achieve multi-granularity alignment of video and query in a coarse-to-fine manner, yet these efforts still fall short in addressing the inherent disparities in representation and information density between videos and queries, leading to modal misalignments. In this paper, we propose a progressive video moment retrieval framework, initially retrieving the most relevant and irrelevant video clips to the query as semantic guidance, thereby bridging the semantic gap between video modality and language modality. Futhermore, we introduce a pseudo clips guided aggregation module to aggregate densely relevant moment clips closer together and propose a discriminative boundary-enhanced decoder with the guidance of pseudo clips to push the semantically confusing proposals away. Extensive experiments on the Charades-STA, ActivityNet Captions and TACoS datasets demonstrate that our method outperforms existing methods.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Efficient Spatio-Temporal Video Grounding with Semantic-Guided Feature Decomposition</title>
@@ -19,16 +39,6 @@
       <guid>/project/efficient-spatio-temporal-video-grounding-with/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;​		Spatio-temporal video grounding (STVG) aims to localize the spatiotemporal object tube in a video according to a given text query. Current approaches address the STVG task with end-to-end frameworks while suffering from heavy computational complexity and insufficient spatio-temporal interactions. To overcome these limitations, we propose a novel Semantic-Guided Feature Decomposition based Network (SGFDN). A semantic-guided mapping operation is proposed to decompose the 3D spatio-temporal feature into 2D motions and 1D object embedding without losing much object-related semantic information. Thus, the computational complexity in computationally expensive operations such as attention mechanisms can be effectively reduced by replacing the input spatio-temporal feature with the decomposed features. Furthermore, based on this decomposition strategy, a pyramid relevance filtering based attention is proposed to capture the crossmodal interactions at multiple spatio-temporal scales. In addition, a decomposition-based grounding head is proposed to locate the queried objects with less computational complexity. Extensive experiments on two widely-used STVG datasets (VidSTG and HCSTVG) demonstrate that our method enjoys state-of-the-art performance as well as less computational complexity.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sequence as a Whole: A Unified Framework for Video Action Localization With Long-Range Text Query</title>
-      <link>/project/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</link>
-      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/project/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</guid>
-      <description>&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;​		Comprehensive understanding of video content requires both spatial and temporal localization. However, there lacks a unified video action localization framework, which hinders the coordinated development of this field. Existing 3D CNN methods take fixed and limited input length at the cost of ignoring temporally long-range cross-modal interaction. On the other hand, despite having large temporal context, existing sequential methods often avoid dense cross-modal interactions for complexity reasons. To address this issue, in this paper, we propose a unified framework which handles the whole video in sequential manner with long-range and dense visual-linguistic interaction in an end-to-end manner. Specifically, a lightweight relevance filtering based transformer (Ref-Transformer) is designed, which is composed of relevance filtering based attention and temporally expanded MLP. The text-relevant spatial regions and temporal clips in video can be efficiently highlighted through the relevance filtering and then propagated among the whole video sequence with the temporally expanded MLP. Extensive experiments on three sub-tasks of referring video action localization, i.e., referring video segmentation, temporal sentence grounding, and spatiotemporal video grounding, show that the proposed framework achieves the state-of-the-art performance in all referring video action localization tasks. The code has been available at.&lt;/p&gt;
 </description>
     </item>
     

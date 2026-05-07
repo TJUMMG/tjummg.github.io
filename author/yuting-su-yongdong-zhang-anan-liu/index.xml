@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuting Su, Yongdong Zhang, Anan Liu | TJUMMG</title>
+    <link>/author/yuting-su-yongdong-zhang-anan-liu/</link>
+      <atom:link href="/author/yuting-su-yongdong-zhang-anan-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuting Su, Yongdong Zhang, Anan Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuting Su, Yongdong Zhang, Anan Liu</title>
+      <link>/author/yuting-su-yongdong-zhang-anan-liu/</link>
+    </image>
+    
+    <item>
+      <title>CDCM: ChatGPT-Aided Diversity-Aware Causal Model for Interactive Recommendation</title>
+      <link>/publication/cdcm-chatgpt-aided-diversity-aware-causal-model-for-interactive-recommendation/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/cdcm-chatgpt-aided-diversity-aware-causal-model-for-interactive-recommendation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

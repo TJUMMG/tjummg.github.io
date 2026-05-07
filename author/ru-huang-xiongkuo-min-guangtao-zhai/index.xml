@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ru Huang, Xiongkuo Min, Guangtao Zhai | TJUMMG</title>
+    <link>/author/ru-huang-xiongkuo-min-guangtao-zhai/</link>
+      <atom:link href="/author/ru-huang-xiongkuo-min-guangtao-zhai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ru Huang, Xiongkuo Min, Guangtao Zhai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
+      <title>Ru Huang, Xiongkuo Min, Guangtao Zhai</title>
+      <link>/author/ru-huang-xiongkuo-min-guangtao-zhai/</link>
+    </image>
+    
+    <item>
+      <title>BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment</title>
+      <link>/publication/band-2k-banding-artifact-noticeable-database-for-banding-detection-and-quality-assessment/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/band-2k-banding-artifact-noticeable-database-for-banding-detection-and-quality-assessment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

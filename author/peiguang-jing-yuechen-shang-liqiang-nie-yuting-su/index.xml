@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peiguang Jing, Yuechen Shang, Liqiang Nie, Yuting Su | TJUMMG</title>
+    <link>/author/peiguang-jing-yuechen-shang-liqiang-nie-yuting-su/</link>
+      <atom:link href="/author/peiguang-jing-yuechen-shang-liqiang-nie-yuting-su/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peiguang Jing, Yuechen Shang, Liqiang Nie, Yuting Su</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
+      <title>Peiguang Jing, Yuechen Shang, Liqiang Nie, Yuting Su</title>
+      <link>/author/peiguang-jing-yuechen-shang-liqiang-nie-yuting-su/</link>
+    </image>
+    
+    <item>
+      <title>Learning Low-Rank Sparse Representations With Robust Relationship Inference for Image Memorability Prediction</title>
+      <link>/publication/learning-low-rank-sparse-representations-with-robust-relationship-inference-for-image-memorability-prediction/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/learning-low-rank-sparse-representations-with-robust-relationship-inference-for-image-memorability-prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

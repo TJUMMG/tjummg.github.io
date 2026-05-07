@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuting Su, Weizhi Nie | TJUMMG</title>
+    <link>/author/yuting-su-weizhi-nie/</link>
+      <atom:link href="/author/yuting-su-weizhi-nie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuting Su, Weizhi Nie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf2c73b1b5657a191d2284922ecf8421a_25982_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuting Su, Weizhi Nie</title>
+      <link>/author/yuting-su-weizhi-nie/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Spatio-Temporal Video Grounding with Semantic-Guided Feature Decomposition</title>
+      <link>/publication/efficient-spatio-temporal-video-grounding-with-semantic-guided-feature-decomposition/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/efficient-spatio-temporal-video-grounding-with-semantic-guided-feature-decomposition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
